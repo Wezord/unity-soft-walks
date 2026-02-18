@@ -1,0 +1,21 @@
+{
+    "name": "ActionHumanBot",
+    "rootNamespace": "",
+    "references": [
+        "Global",
+        "Unity.ML-Agents",
+        "AI",
+        "Interaction",
+        "HumanBot",
+        "ActionBot"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

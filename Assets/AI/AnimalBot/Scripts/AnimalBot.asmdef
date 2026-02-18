@@ -1,0 +1,18 @@
+{
+    "name": "AnimalBot",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c7b20168975f8564a9b30c2e2b016a4f",
+        "GUID:3313db3ce42e5aa41bdda72a93b844e5",
+        "GUID:85e0054f8e64b47309646d35f8851f81"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 2db4bbf3d8c66464d9ffd994a80473f2
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 3967352908552223216
+    second: Arm_horse|Arm_horse|Arm_horse|down|Arm_horse|down
+  - first:
+      74: 3005803032938675749
+    second: Arm_horse|Arm_horse|Arm_horse|idle_1|Arm_horse|idle_1
+  - first:
+      74: 5842773408386235387
+    second: Arm_horse|Arm_horse|Arm_horse|up_idle|Arm_horse|up_idle
+  - first:
+      74: -2564607276570680776
+    second: Arm_horse|Arm_horse|Arm_horse|up|Arm_horse|up
+  - first:
+      74: 4522415341162616207
+    second: Arm_horse|Arm_horse|attack_1|attack_1
+  - first:
+      74: 5153071819068213161
+    second: Arm_horse|Arm_horse|attack_2|attack_2
+  - first:
+      74: 7812754962437701723
+    second: Arm_horse|Arm_horse|die|die
+  - first:
+      74: -643226429658898560
+    second: Arm_horse|Arm_horse|down|down
+  - first:
+      74: 7942895235247320357
+    second: Arm_horse|Arm_horse|eat_2|eat_2
+  - first:
+      74: 3995788893272996768
+    second: Arm_horse|Arm_horse|eat|eat
+  - first:
+      74: 4407057416030384017
+    second: Arm_horse|Arm_horse|hit_back.001|hit_back.001
+  - first:
+      74: 4209029795829079959
+    second: Arm_horse|Arm_horse|hit_front.001|hit_front.001
+  - first:
+      74: -8350745386682035608
+    second: Arm_horse|Arm_horse|hit_left|hit_left
+  - first:
+      74: 1461036090927409193
+    second: Arm_horse|Arm_horse|hit_right|hit_right
+  - first:
+      74: -6095205549034023063
+    second: Arm_horse|Arm_horse|idle_1|idle_1
+  - first:
+      74: -4152873164228585193
+    second: Arm_horse|Arm_horse|idle_2|idle_2
+  - first:
+      74: 4148253804402507820
+    second: Arm_horse|Arm_horse|run|run
+  - first:
+      74: -3394446319178264894
+    second: Arm_horse|Arm_horse|up_idle|up_idle
+  - first:
+      74: -980608292039887948
+    second: Arm_horse|Arm_horse|up|up
+  - first:
+      74: 5648938149773435441
+    second: Arm_horse|Arm_horse|walk_back|walk_back
+  - first:
+      74: 7342311335408954588
+    second: Arm_horse|Arm_horse|walk_fast|walk_fast
+  - first:
+      74: 1519319443651361129
+    second: Arm_horse|Arm_horse|walk_slow|walk_slow
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

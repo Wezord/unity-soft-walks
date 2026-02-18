@@ -1,0 +1,21 @@
+{
+    "name": "HeidelBotAgent",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c7b20168975f8564a9b30c2e2b016a4f",
+        "GUID:85e0054f8e64b47309646d35f8851f81",
+        "GUID:3313db3ce42e5aa41bdda72a93b844e5",
+        "GUID:ca9aabb3208a6c644a1bb0cbc734fcc7",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:5c2b5ba89f9e74e418232e154bc5cc7a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
